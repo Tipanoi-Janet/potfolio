@@ -1,0 +1,53 @@
+/* body{
+  background: rgb(27,33,64);
+background: radial-gradient(circle, rgba(27,33,64,1) 0%, rgba(93,50,59,1) 100%);
+} */
+.mypotfolio{
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 48%;
+    background-color: aliceblue;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#PINK{
+  width: 95%;
+   
+}
+.z{
+  margin-top: -38%;
+  margin-left: 2%;
+  font-size: xx-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 900;
+  
+}
+#pm{
+  padding-top: -5%;
+
+}
+.red{
+  color: aqua; 
+}
+#sheen{
+  width: 47%;
+  height: 90vh;
+  margin-left: 35%;
+  margin-top: -27%;
+  border-radius: 68%
+}
+.hi{
+  margin-top: -38%;
+  margin-left: 2%;
+  font-size: xx-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 900;
+}
+.junior{
+  font-size: x-large;
+  color: darkblue;
+}
